@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Abdi/Documents/MLOps/mlruns/0/89d45665fb6145c884307d05a4ac1daa/artifacts
+end_time: 1704351593670
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89d45665fb6145c884307d05a4ac1daa
+run_name: melodic-boar-314
+run_uuid: 89d45665fb6145c884307d05a4ac1daa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704351584881
+status: 3
+tags: []
+user_id: Abdi

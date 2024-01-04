@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Abdi/Documents/MLOps/mlruns/0/f99f50b2db51423ab9f9c9b928966a12/artifacts
+end_time: 1704336528261
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f99f50b2db51423ab9f9c9b928966a12
+run_name: tasteful-gnat-368
+run_uuid: f99f50b2db51423ab9f9c9b928966a12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704336520946
+status: 3
+tags: []
+user_id: Abdi
